@@ -11,6 +11,7 @@ the first argument should be the player's number (0 or 1)
 the second argument should be the server's ip addr  
 in the following case, server.exe has been run on a system whose ip address is 192.168.43.72  
 ```
+server.exe
 client 0 192.168.43.72
 client 1 192.168.43.72
 ```
